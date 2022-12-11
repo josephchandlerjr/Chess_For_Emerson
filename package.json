@@ -20,7 +20,7 @@
   "homepage": "https://github.com/josephchandlerjr/Chess_For_Emerson#readme",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
